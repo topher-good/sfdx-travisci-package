@@ -10,6 +10,13 @@
             "versionName": "Travis CI - Winter '19",
             "versionNumber": "1.0.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app/main/default/",
+            "package": "Travis CI2",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -17,6 +24,8 @@
     "sourceApiVersion": "44.0",
     "packageAliases": {
         "Travis CI": "0Ho0N000000CaT3SAK",
-        "Travis CI@1.0.0-1": "04t0N000001E1ksQAC"
+        "Travis CI@1.0.0-1": "04t0N000001E1ksQAC",
+        "Travis CI2": "0Ho1I000000blMwSAI",
+        "Travis CI2@0.1.0-1": "04t1I000002yAvvQAE"
     }
 }
