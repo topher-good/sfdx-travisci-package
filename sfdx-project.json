@@ -10,13 +10,6 @@
             "versionName": "Travis CI - Winter '19",
             "versionNumber": "1.0.0.NEXT",
             "default": false
-        },
-        {
-            "path": "force-app/main/default/",
-            "package": "Travis CI2",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
         }
     ],
     "namespace": "",
